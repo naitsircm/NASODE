@@ -1,4 +1,4 @@
-#Simulation and Numerical Analysis of SDEs
+# Simulation and Numerical Analysis of SDEs
 
 This is a collection of programming exercises from a master course called Numerical Analysis of Stochastic Differential Equations (NASODE)
 together with a direct application of some of the techniques learned there. More precisely, I am modelling the daily log returns of SPY as 
